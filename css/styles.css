@@ -23,6 +23,7 @@
 /** -----------------------------BASE STYLES */
 
 body {
+  margin: 0;
   font-family: "Roboto", sans-serif;
   color: var(--main-cl);
   background-color: #fff;
